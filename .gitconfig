@@ -1,0 +1,6 @@
+[user]
+	name = James Mertens
+	email = 44683915+jammer42@users.noreply.github.com
+[core]
+	editor = code --wait
+	autocrlf = input
